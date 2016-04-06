@@ -1,0 +1,26 @@
+{
+  "name": "cp-biggest-number",
+  "version": "1.0.0",
+  "description": "Coderpower Challenge",
+  "main": "sources/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LancelotP/cp-biggest-number.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LancelotP/cp-biggest-number/issues"
+  },
+  "homepage": "https://github.com/LancelotP/cp-biggest-number#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.4.5"
+  }
+}
